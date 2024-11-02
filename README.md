@@ -1,16 +1,16 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Weird Food Generator] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Tech Fliers]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Chris Elsa Binu] - [College of Engineering Trivandrum]
+- Member 2: [Aswathi K S] - [College of Engineering Trivandrum]
+- Member 3: [Sarah Abraham] - [College of Engineering Trivandrum]
 
 ### Project Description
 [2-3 lines about what your project does]
